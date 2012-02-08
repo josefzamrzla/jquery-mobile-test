@@ -3,6 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="content-language" content="cs" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="../jquery/jquery-1.7.1.min.js"></script>
     <link rel="stylesheet" media="all" type="text/css" href="../jquery/jquery.mobile-1.0.1.min.css" />
     <link rel="stylesheet" media="all" type="text/css" href="../jquery/custom.css" />
